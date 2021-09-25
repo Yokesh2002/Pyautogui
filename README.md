@@ -1,2 +1,3 @@
 # Pyautogui
-Pip install PyAutoGUI Import pyautogui as p P.Typewrite("Hello Guys!",interval=0.20)
+Import pyautogui as P 
+P.Typewrite("Hello Guys!",interval=0.20)
